@@ -11,4 +11,4 @@ $ ./stack # to execute
 ``` 
 
 # Notes
-This implementation pushes onto the end of the array. When the capacity is reached a resize takes place. 
+This implementation pushes onto the end of the array. When the capacity is reached the array is resized. 
