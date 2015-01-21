@@ -7,5 +7,8 @@ Usage
 
 ```bash
 $ make  # compiles stack.c and test program 
-$ ./stack #to execute
+$ ./stack # to execute
 ``` 
+
+# Notes
+This implementation pushes onto the end of the array. 
